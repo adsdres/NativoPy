@@ -1,6 +1,6 @@
 <div align="center">
 
-🌐 **Idioma / Language:** **🇪🇸 Español** | [🇺🇸 Read in English](README_EN.MD)
+🌐 **Idioma / Language:** **🇪🇸 Español** | [🇺🇸 Read in English](README_EN.md)
 
 # 🚀 NativoPy Studio PRO
 ### Entorno Integrado de Compilación Nativa Python a C/C++ (`.exe` / `.pyd`), Empaquetado NSIS y Firma Digital
@@ -67,7 +67,7 @@
 | Uso Completo de Núcleos CPU (`--jobs`) y Prioridad de Proceso | Máx. 4 núcleos | ✅ Ilimitado | ✅ Ilimitado |
 | Generador de Instalador `Setup.exe` (NSIS + EULA) | ❌ | ✅ | ✅ |
 | Firma Digital (`SignTool` `.pfx`/`.p12`/Token USB + Timestamp) | ❌ | ❌ | ✅ |
-| Activación Multi-Equipo (PC Escritorio + Laptop) | — | 1 Equipo | **Hasta 2 Equipos** |
+| Equipos por Licencia (con reinstalación ilimitada en el mismo PC) | — | 1 Equipo | **1 Equipo (Individual)** |
 
 ---
 
