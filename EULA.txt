@@ -1,0 +1,53 @@
+=============================================================================
+ACUERDO DE LICENCIA DE USUARIO FINAL (EULA) / END-USER LICENSE AGREEMENT
+NATIVOPY STUDIO PRO — Version 2.8.0 Global
+=============================================================================
+[ESPAÑOL - Ver versión en Inglés más abajo / See English version below]
+
+IMPORTANTE: LEA DETENIDAMENTE ESTE ACUERDO ANTES DE INSTALAR O UTILIZAR EL SOFTWARE.
+
+1. CONCESIÓN DE LICENCIA
+NativoPy Studio ("el Software") se otorga bajo licencia de uso, no se vende.
+- Edición FREE / TRIAL: Permite evaluar y utilizar las funciones básicas o temporales del Software según las restricciones técnicas integradas.
+- Edición PRO (Vitalicia o por Vigencia): Concede al titular registrado el derecho no exclusivo e intransferible de instalar y activar el Software en hasta dos (2) equipos de su propiedad (por ejemplo, PC de Escritorio y Laptop).
+
+2. PROPIEDAD INTELECTUAL SOBRE SUS COMPILACIONES
+Usted conserva el 100% de la propiedad intelectual, derechos de autor y derechos de distribución comercial sobre los programas (.exe), módulos (.pyd) e instaladores (Setup.exe) que usted genere utilizando NativoPy Studio.
+
+3. RESTRICCIONES DE USO
+Queda estrictamente prohibido:
+a) Realizar ingeniería inversa, descompilar, desensamblar o intentar eludir el sistema criptográfico de licencias (RSA-4096 / JWT) del Software.
+b) Compartir, revender, alquilar o transferir su clave de licencia o archivo license.dat a terceros no autorizados.
+
+4. LIMITACIÓN DE RESPONSABILIDAD
+El Software se proporciona "TAL CUAL" ("AS IS"), sin garantías de ningún tipo, expresas o implícitas. En ningún caso el autor será responsable por daños directos, indirectos o pérdida de datos derivados del uso del Software.
+
+5. AVISO NOMINATIVO
+NativoPy Studio es una herramienta gráfica de orquestación independiente para Nuitka y NSIS, y no está afiliada ni patrocinada por el proyecto Nuitka ni por Python Software Foundation.
+
+=============================================================================
+[ENGLISH VERSION — END-USER LICENSE AGREEMENT (EULA)]
+=============================================================================
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING THE SOFTWARE.
+
+1. LICENSE GRANT
+NativoPy Studio ("the Software") is licensed, not sold.
+- FREE / TRIAL Edition: Grants the right to evaluate and use the basic or time-limited features of the Software subject to its built-in technical restrictions.
+- PRO Edition (Lifetime or Term Validity): Grants the registered licensee a non-exclusive, non-transferable right to install and activate the Software on up to two (2) computers owned by the licensee (e.g., Desktop PC and Laptop).
+
+2. INTELLECTUAL PROPERTY OF YOUR COMPILED OUTPUT
+You retain 100% of the intellectual property, copyright, and commercial distribution rights over all executables (.exe), binary modules (.pyd), and installers (Setup.exe) that you generate using NativoPy Studio.
+
+3. RESTRICTIONS
+You may NOT:
+a) Reverse-engineer, decompile, disassemble, or attempt to bypass the cryptographic licensing system (RSA-4096 / JWT) of the Software.
+b) Share, resell, rent, lease, or transfer your license key or license.dat file to unauthorized third parties.
+
+4. LIMITATION OF LIABILITY
+The Software is provided "AS IS", without warranty of any kind, express or implied. In no event shall the author be liable for any direct, indirect, or consequential damages or data loss arising from the use of the Software.
+
+5. NOMINATIVE FAIR USE DISCLAIMER
+NativoPy Studio is an independent graphical frontend and orchestration tool for Nuitka and NSIS. It is not affiliated with, sponsored, or endorsed by the Nuitka project or the Python Software Foundation.
+
+Copyright (C) 2026 Adsdres (Adsdres@gmail.com). All Rights Reserved / Todos los derechos reservados.
