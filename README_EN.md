@@ -67,7 +67,7 @@
 | CPU Core Scaling (`--jobs`) & OS Process Priority | Max 4 cores | ✅ Unlimited | ✅ Unlimited |
 | Professional `Setup.exe` Installer Builder (NSIS + EULA) | ❌ | ✅ | ✅ |
 | Digital Code Signing (`SignTool` `.pfx`/`.p12`/USB Token + Timestamp) | ❌ | ❌ | ✅ |
-| Multi-PC Activation (Desktop + Laptop) | — | 1 PC | **Up to 2 PCs** |
+| Devices per License (with unlimited reinstalls on the same PC) | — | 1 PC | **1 PC (Single-Seat)** |
 
 ---
 
