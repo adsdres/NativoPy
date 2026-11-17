@@ -9,7 +9,7 @@ IMPORTANTE: LEA DETENIDAMENTE ESTE ACUERDO ANTES DE INSTALAR O UTILIZAR EL SOFTW
 1. CONCESIÓN DE LICENCIA
 NativoPy Studio ("el Software") se otorga bajo licencia de uso, no se vende.
 - Edición FREE / TRIAL: Permite evaluar y utilizar las funciones básicas o temporales del Software según las restricciones técnicas integradas.
-- Edición PRO (Vitalicia o por Vigencia): Concede al titular registrado el derecho no exclusivo e intransferible de instalar y activar el Software en hasta dos (2) equipos de su propiedad (por ejemplo, PC de Escritorio y Laptop).
+- Edición PRO (Vitalicia o por Vigencia): Concede al titular registrado el derecho no exclusivo e intransferible de instalar y activar el Software en un (1) equipo de su propiedad (o el número de equipos adquiridos en su plan), con derecho a reinstalaciones ilimitadas en ese mismo equipo.
 
 2. PROPIEDAD INTELECTUAL SOBRE SUS COMPILACIONES
 Usted conserva el 100% de la propiedad intelectual, derechos de autor y derechos de distribución comercial sobre los programas (.exe), módulos (.pyd) e instaladores (Setup.exe) que usted genere utilizando NativoPy Studio.
@@ -34,7 +34,7 @@ IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING THE S
 1. LICENSE GRANT
 NativoPy Studio ("the Software") is licensed, not sold.
 - FREE / TRIAL Edition: Grants the right to evaluate and use the basic or time-limited features of the Software subject to its built-in technical restrictions.
-- PRO Edition (Lifetime or Term Validity): Grants the registered licensee a non-exclusive, non-transferable right to install and activate the Software on up to two (2) computers owned by the licensee (e.g., Desktop PC and Laptop).
+- PRO Edition (Lifetime or Term Validity): Grants the registered licensee a non-exclusive, non-transferable right to install and activate the Software on one (1) computer owned by the licensee (or the number of devices purchased in their plan), with unlimited reinstallations on that same machine.
 
 2. INTELLECTUAL PROPERTY OF YOUR COMPILED OUTPUT
 You retain 100% of the intellectual property, copyright, and commercial distribution rights over all executables (.exe), binary modules (.pyd), and installers (Setup.exe) that you generate using NativoPy Studio.
