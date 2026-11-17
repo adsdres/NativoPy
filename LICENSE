@@ -1,0 +1,37 @@
+PROPRIETARY COMMERCIAL SOFTWARE LICENSE / LICENCIA DE SOFTWARE COMERCIAL PROPIETARIO
+====================================================================================
+
+Copyright (c) 2026 Adsdres (Andrés Manuel Del Salto Zúñiga - Adsdres@gmail.com).
+All Rights Reserved / Todos los derechos reservados.
+
+[ESPAÑOL]
+1. PROPIEDAD Y DERECHOS DE AUTOR
+Este software ("NativoPy Studio" / "NativoPy Studio PRO"), incluyendo su código fuente, binarios ejecutables, arquitectura, documentación y activos visuales, es propiedad exclusiva de su autor y está protegido por las leyes de derechos de autor y tratados internacionales de propiedad intelectual. Este software NO es de código abierto (Open Source).
+
+2. CONCESIÓN DE LICENCIA DE USO
+El uso del software ejecutable está sujeto a los términos del Acuerdo de Licencia de Usuario Final (EULA.txt):
+- Edición FREE / TRIAL: Uso permitido únicamente con fines de evaluación y bajo las limitaciones técnicas integradas en el programa.
+- Edición PRO (Vitalicia o por Vigencia): Concede al comprador registrado una licencia no exclusiva e intransferible para activar y utilizar el software en hasta dos (2) equipos de su propiedad.
+
+3. PROHIBICIONES EXPRESAS
+Sin la autorización previa y por escrito del autor, queda estrictamente prohibido:
+- Copiar, publicar, redistribuir, sublicenciar, alquilar o vender el código fuente o los binarios de NativoPy Studio.
+- Modificar, descompilar, aplicar ingeniería inversa o eludir los mecanismos criptográficos de validación de licencias (RSA-4096 / JWT).
+
+------------------------------------------------------------------------------------
+
+[ENGLISH]
+1. OWNERSHIP AND COPYRIGHT
+This software ("NativoPy Studio" / "NativoPy Studio PRO"), including its source code, executable binaries, architecture, documentation, and visual assets, is the exclusive property of its author and is protected by copyright laws and international intellectual property treaties. This software is NOT Open Source.
+
+2. LICENSE GRANT
+Use of the executable software is governed by the End-User License Agreement (EULA.txt):
+- FREE / TRIAL Edition: Permitted for evaluation and basic usage subject to built-in feature restrictions.
+- PRO Edition (Lifetime or Term Validity): Grants the registered purchaser a non-exclusive, non-transferable license to activate and use the software on up to two (2) computers owned by the licensee.
+
+3. RESTRICTIONS
+Without prior written permission from the author, you may NOT:
+- Copy, publish, redistribute, sublicense, rent, or sell the source code or binaries of NativoPy Studio.
+- Modify, decompile, reverse-engineer, or bypass the cryptographic license verification mechanisms (RSA-4096 / JWT).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
