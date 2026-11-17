@@ -1,6 +1,6 @@
 <div align="center">
 
-🌐 **Idioma / Language:** **🇪🇸 Español** | [🇺🇸 Read in English](README_EN.md)
+🌐 **Idioma / Language:** **🇪🇸 Español** | [🇺🇸 Read in English](README_EN.MD)
 
 # 🚀 NativoPy Studio PRO
 ### Entorno Integrado de Compilación Nativa Python a C/C++ (`.exe` / `.pyd`), Empaquetado NSIS y Firma Digital
